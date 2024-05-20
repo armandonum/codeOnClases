@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wvwt9+tgjZMllsdtAEgLiwN05uLiIppiSVdkZaDNYOO/TA0pG29irGSuQJmyY1Lu2+Mh4YkR96jmJ8i5Y2rxA==",
+  "success": true,
+  "projectFilePath": "/media/armando/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/codOnClasses/firts/primero.fsproj",
+  "expectedPackageFiles": [
+    "/home/armando/.nuget/packages/fsharp.core/8.0.102/fsharp.core.8.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}
