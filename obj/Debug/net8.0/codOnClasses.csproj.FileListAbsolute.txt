@@ -26,3 +26,4 @@
 /mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/codOnClasses/obj/Debug/net8.0/codOnClasses.pdb
 /mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/codOnClasses/obj/Debug/net8.0/codOnClasses.genruntimeconfig.cache
 /mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/codOnClasses/obj/Debug/net8.0/ref/codOnClasses.dll
+/mnt/8bed31c5-7f62-4ac4-8ced-3de5f19c90c5/semestre 2_2023/talleres de desarrollo de soft/modulo_6/codOnClasses/obj/Debug/net8.0/codOnClasses.sourcelink.json
