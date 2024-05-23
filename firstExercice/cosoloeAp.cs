@@ -5,17 +5,17 @@ namespace ConsoleApp
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        // public static void Main(string[] args)
+        // {
           
-            ListPart();
-            DictionaryPart();
-            QueuePart();
+        //     ListPart();
+        //     DictionaryPart();
+        //     QueuePart();
 
-            StackPart();
+        //     StackPart();
 
-            LibraryPart();
-        }
+        //     LibraryPart();
+        // }
 
         static void ListPart()
         {
