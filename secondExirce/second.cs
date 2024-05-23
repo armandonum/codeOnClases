@@ -1,6 +1,6 @@
 
 
-public class Program{
+public class Program2{
 public delegate int  MathOperation(int a, int b);
 public static int Add(int a, int b) 
 {
